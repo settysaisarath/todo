@@ -1,0 +1,27 @@
+td{
+    background: blanchedalmond;
+    padding: 5px;
+}
+
+th{
+    background:brown;
+     color: white;
+    padding: 5px;
+}
+input{
+    height: 30px;
+    width: 300px;
+   /* margin-right: 120px; */
+}
+
+button{
+    height: 40px;
+    width: 70px;
+    background: brown;
+    color: white;
+
+ }
+table{
+    margin-left: 600px;
+    margin-right: 500px;
+} 
